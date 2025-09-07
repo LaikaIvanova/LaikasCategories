@@ -7,6 +7,7 @@ ItemName_Base.PlasticCup = "Plastikbecher [Leer]",
 ItemName_Base.IDcard = "Ausweis",
 ItemName_Base.IDcard_Male = "Ausweis",
 ItemName_Base.IDcard_Female = "Ausweis",
+ItemName_Base.BookButchering1 = "Schlachten Band 1",
 
 --Vanilla
 ItemName_Base.Pistol3 = "Desert Eagle",
