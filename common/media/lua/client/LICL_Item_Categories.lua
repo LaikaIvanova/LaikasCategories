@@ -1547,6 +1547,7 @@ TweakItem("Base.BookTrapping4","DisplayCategory","Literatur_[Lehrbuch]");
 TweakItem("Base.BookTrapping5","DisplayCategory","Literatur_[Lehrbuch]");
 TweakItem("Base.BookButchering1","DisplayCategory","Literatur_[Lehrbuch]");
 TweakItem("Base.BookButchering2","DisplayCategory","Literatur_[Lehrbuch]");
+TweakItem("Base.BookButchering3","DisplayCategory","Literatur_[Lehrbuch]");
 -- Recipe magazine
 TweakItem("Base.FishingMag1","DisplayCategory","Literatur_[Magazin]");
 TweakItem("Base.FishingMag2","DisplayCategory","Literatur_[Magazin]");
