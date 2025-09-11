@@ -10,6 +10,7 @@ ItemName_Base.IDcard_Female = "Ausweis",
 ItemName_Base.BookButchering1 = "Schlachten Band 1",
 ItemName_Base.BookButchering2 = "Schlachten Band 2",
 ItemName_Base.BookButchering3 = "Schlachten Band 3",
+ItemName_Base.BookButchering4 = "Schlachten Band 4",
 
 --Vanilla
 ItemName_Base.Pistol3 = "Desert Eagle",
