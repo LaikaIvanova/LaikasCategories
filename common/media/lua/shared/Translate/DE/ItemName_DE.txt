@@ -17,6 +17,7 @@ ItemName_Base.BookAiming2 = "Zielen Band 2",
 ItemName_Base.BookAiming3 = "Zielen Band 3",
 ItemName_Base.BookAiming4 = "Zielen Band 4",
 ItemName_Base.BookAiming5 = "Zielen Band 5",
+ItemName_Base.BookHusbandry1 = "Tierhaltung Band 1",
 
 --Vanilla
 ItemName_Base.Pistol3 = "Desert Eagle",
