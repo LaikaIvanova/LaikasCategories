@@ -21,6 +21,7 @@ ItemName_Base.BookHusbandry1 = "Tierhaltung Band 1",
 ItemName_Base.BookHusbandry2 = "Tierhaltung Band 2",
 ItemName_Base.BookHusbandry3 = "Tierhaltung Band 3",
 ItemName_Base.BookHusbandry4 = "Tierhaltung Band 4",
+ItemName_Base.BookHusbandry5 = "Tierhaltung Band 5",
 
 --Vanilla
 ItemName_Base.Pistol3 = "Desert Eagle",
