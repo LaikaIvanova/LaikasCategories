@@ -24,6 +24,7 @@ ItemName_Base.BookHusbandry4 = "Tierhaltung Band 4",
 ItemName_Base.BookHusbandry5 = "Tierhaltung Band 5",
 ItemName_Base.BookCarving1 = "Schnitzen Band 1",
 ItemName_Base.BookCarving2 = "Schnitzen Band 2",
+ItemName_Base.BookCarving3 = "Schnitzen Band 3",
 
 --Vanilla
 ItemName_Base.Pistol3 = "Desert Eagle",
