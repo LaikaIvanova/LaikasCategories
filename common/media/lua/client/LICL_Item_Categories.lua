@@ -1570,6 +1570,7 @@ TweakItem("Base.BookGlassmaking2","DisplayCategory","Literatur_[Lehrbuch]");
 TweakItem("Base.BookGlassmaking3","DisplayCategory","Literatur_[Lehrbuch]");
 TweakItem("Base.BookGlassmaking4","DisplayCategory","Literatur_[Lehrbuch]");
 TweakItem("Base.BookGlassmaking5","DisplayCategory","Literatur_[Lehrbuch]");
+TweakItem("Base.BookFlintKnapping1","DisplayCategory","Literatur_[Lehrbuch]");
 -- Recipe magazine
 TweakItem("Base.FishingMag1","DisplayCategory","Literatur_[Magazin]");
 TweakItem("Base.FishingMag2","DisplayCategory","Literatur_[Magazin]");
