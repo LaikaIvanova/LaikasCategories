@@ -263,6 +263,7 @@ TweakItem("Base.Tshirt_SportDECAL", "DisplayCategory", "Kleidung_[Oben-Sekundaer
 TweakItem("Base.Tshirt_IndieStoneDECAL", "DisplayCategory", "Kleidung_[Oben-Sekundaer]");
 TweakItem("Base.Tshirt_Profession_VeterenGreen", "DisplayCategory", "Kleidung_[Oben-Sekundaer]");
 TweakItem("Base.Tshirt_Profession_VeterenRed", "DisplayCategory", "Kleidung_[Oben-Sekundaer]");
+TweakItem("Base.Bandeau_Rag", "DisplayCategory", "Kleidung_[Oben-Sekundaer]");
 -- Short Sleeve Shirts
 TweakItem("Base.Shirt_Baseball_KY", "DisplayCategory", "Kleidung_[Oben-Tertiaer]");
 TweakItem("Base.Shirt_Baseball_Rangers", "DisplayCategory", "Kleidung_[Oben-Tertiaer]");
@@ -1465,7 +1466,7 @@ TweakItem("Base.Tweezers","DisplayCategory","Erste_Hilfe_[Ausruestung]");
 TweakItem("Base.Antibiotics","DisplayCategory","Erste_Hilfe_[Antibiotika]");
 TweakItem("Base.PillsAntiDep","DisplayCategory","Erste_Hilfe_[Depression]");
 TweakItem("Base.PillsBeta","DisplayCategory","Erste_Hilfe_[Panik]");
-TweakItem("Base.Cigarettes","DisplayCategory","Sonstiges_[ZMuell]");
+TweakItem("Base.CigaretteSingle","DisplayCategory","Sonstiges_[ZMuell]");
 TweakItem("Base.Pills","DisplayCategory","Erste_Hilfe_[Schmerzmittel]");
 TweakItem("Base.PillsSleepingTablets","DisplayCategory","Erste_Hilfe_[Schlafmittel]");
 TweakItem("Base.PillsVitamins","DisplayCategory","Erste_Hilfe_[Muedigkeit]");
