@@ -40,6 +40,8 @@ ItemName_Base.Pistol3 = "Desert Eagle",
 ItemName_Base.Necklace_Crucifix = "Halskette mit Kruzifix",
 ItemName_Base.Bag_NormalHikingBag = "Kleiner Wanderrucksack",
 ItemName_Base.Pencil = "Stift [Blei]",
+ItemName_Base.Bandeau_Rag = "Bauchfreies Oberteil [Stoff]",
+ItemName_Base.ToolRoll_Leather = "Werkzeugrolle",
 
 --Boots-And-Clothes-Expanded
 ItemName_Base.RH93_MicroShorts = "Freizügige Hotpants",
